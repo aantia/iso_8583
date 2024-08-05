@@ -1,5 +1,5 @@
 {
-  "name": "iso_8583",
+  "name": "@optimuspay/iso_8583",
   "version": "3.0.1",
   "description": "A javascript library for messaging in iso 8583 messaging format.",
   "main": "./lib/ISO8583.js",
